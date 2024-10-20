@@ -7,15 +7,19 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #0e0e0e; /* Deep black background */
-    color: #e6e6e6; /* Light gray text */
+    background-color: #0e0e0e;
+    /* Deep black background */
+    color: #e6e6e6;
+    /* Light gray text */
 }
 
 header {
     text-align: center;
     padding: 20px;
-    background-color: #222222; /* Dark gray header */
-    color: #ffd700; /* Gold text */
+    background-color: #222222;
+    /* Dark gray header */
+    color: #ffd700;
+    /* Gold text */
 }
 
 header h1 {
@@ -31,15 +35,19 @@ section {
     margin: 20px auto;
     padding: 20px;
     max-width: 900px;
-    background-color: #1a1a1a; /* Darker section background */
-    color: #e6e6e6; /* Light gray text */
+    background-color: #1a1a1a;
+    /* Darker section background */
+    color: #e6e6e6;
+    /* Light gray text */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 section h2 {
     margin-bottom: 10px;
-    color: #ffd700; /* Gold accent color for headings */
-    border-bottom: 2px solid #ffd700; /* Matching gold border */
+    color: #ffd700;
+    /* Gold accent color for headings */
+    border-bottom: 2px solid #ffd700;
+    /* Matching gold border */
     padding-bottom: 5px;
 }
 
@@ -60,8 +68,10 @@ p {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #222222; /* Dark gray footer */
-    color: #ffd700; /* Gold text */
+    background-color: #222222;
+    /* Dark gray footer */
+    color: #ffd700;
+    /* Gold text */
     position: relative;
     bottom: 0;
     width: 100%;
